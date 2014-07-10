@@ -468,7 +468,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = FlappyBird;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = /Users/timlau/Downloads/MGWU_Palo_Alto.mobileprovision;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -499,7 +499,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = FlappyBird;
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = /Users/timlau/Downloads/MGWU_Palo_Alto.mobileprovision;
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
 			};
